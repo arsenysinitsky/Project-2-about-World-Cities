@@ -1,5 +1,4 @@
 # Project-2-about-World-Cities
-# World-cities-analysis-project
 ## Description
 The project concetrates on the analysis of the data about cities, such as population, country, location etc. and graphic depiction of it.
 
